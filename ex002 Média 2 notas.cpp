@@ -14,7 +14,7 @@ int main()
     cout << "2ª nota: ";
     cin >> n2;
 
-    media = n1 + n2;
+    media = (n1 + n2) / 2;
 
     cout << "A média final das notas " << n1 << " e " << n2 << " é " << media << endl;
 
