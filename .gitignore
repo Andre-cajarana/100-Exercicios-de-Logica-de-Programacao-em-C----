@@ -1,0 +1,18 @@
+100 Exercícios de lógica de Programação em C++.cbp
+100 Exercícios de lógica de Programação em C++.layout
+bin/Debug/100 Exercícios de lógica de Programação em C++.exe
+obj/Debug/ex001 Somar 2 números.o
+ex002 Média 2 notas.exe
+obj/Debug/ex002 Média 2 notas.o
+ex002 Média 2 notas.o
+*.exe
+100 Exercícios de Lógica de Programação_compressed.pdf
+*.o
+100 Exercícios de lógica de Programação em C++.depend
+ex004 Dobro triplo metade.obj
+ex004 Dobro triplo metade.pdb
+vc140.pdb
+gmon.out
+*.ilk
+*.obj
+*.pdb
