@@ -1,5 +1,6 @@
 #include <iostream>
 #include <windows.h>
+#include <stdlib.h>
 
 using namespace std;
 int main()
@@ -15,6 +16,9 @@ int main()
 	
 	cout << "A temperatura de "<<c<<" graus Celsius, convertida em Fahrenheit, corresponde a: "<<f<<" graus Fahrenheit."<<endl;
 	
-	return 1;	
+	
+	system("pause");
+	
+	return 0;	
 	
 }
